@@ -1,0 +1,1 @@
+const myTest = 'Test GitHub';
